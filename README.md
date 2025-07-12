@@ -20,10 +20,15 @@ User-Based Collaborative Filtering — Personalized recommendations based on use
 
 ## 🧠 Tech Stack
 Component	Technology
+
 Programming Language- 	Python
+
 Data Handling- Pandas, NumPy
+
 ML / Recommendation- 	Scikit-learn, Cosine Similarity
+
 Model Storage- joblib (.pkl files)
+
 Web Framework- 	Streamlit
 
 ## 📂 Dataset Used
