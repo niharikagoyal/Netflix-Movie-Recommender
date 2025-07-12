@@ -65,5 +65,5 @@ Predicts ratings for unseen movies
 
 🌍 Deploy via Streamlit Cloud / Render
 
-👩‍💻 Author
+## 👩‍💻 Author
 Niharika Goyal
